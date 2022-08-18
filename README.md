@@ -32,7 +32,7 @@ _______________________________________________
 
 Clique no link abaixo para vê-las:👇🏻
 
- https://pin.it/5fIZQe7
+ [https://pin.it/5fIZQe7](url)
 
  O grupo é constituído por 9 membros(nome de cada uma na foto acima), que debutaram(começaram carreira)em 2015 participando de um reality show cujo o nome é SIXTEEN.
 
