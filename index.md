@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Olá, te convido a conhecer um pouco sobre meus grupos de K-POP favoritos.
+___________________________________________________________________________
+Opa, beleza? Acho que o pessoal da minha sala nem imagina que eu goste desse tipo de música, mas agora eles sabem, eu vou fazer meu primeiro repositório para falar sobre isso um pouco.
+________________________________________________________________________________________________________________________________________________________________________________________
+* Onde eu quero chegar com isso?Por que decidi falar sobre isso?
+ 
+Não quero chegar a lugar nenhum com isso, apenas quero mostrar um pouco do que eu mais gosto. 
+ Eu decidi falar sobre isso porque eu gosto desse gênero musical ( não sei se é gênero) anyways.
+_____________________________________________________________________________________________
+ 
+**AVISOS**
 
-You can use the [editor on GitHub](https://github.com/ESTUDANTEISABELLE/KPOP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Se não gostar do conteúdo, saia, porque eu não sou obrigada a aturar gente que não gosta de K-POP só porque são coreanos, já que não faz o menor sentido desse hate, e tbm porque eu respeito o estilo de vocês.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Eu irei falar só sobre grupos femininos.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
 
-### Markdown
+```Meu top 5 GG's (GG-GIRL GROUP=GRUPO FEMININO)```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+🥇TWICE
 
-```markdown
-Syntax highlighted code block
+🥈NMIXX
 
-# Header 1
-## Header 2
-### Header 3
+🥉ITZY
 
-- Bulleted
-- List
+4°KEP1ER
 
-1. Numbered
-2. List
+5°BLACKPINK
+_______________________________________________
+ 
+ O grupo que eu mais acompanho é o TWICE, por isso pra mim elas são em primeiro no meu top GG's. Vou falar um pouco sobre elas.
+ 
+[https://pin.it/5r90er7](URL)
 
-**Bold** and _Italic_ and `Code` text
+ O grupo é constituído por 9 membros(nome de cada uma no link acima👆🏻), que debutaram(começaram carreira)em 2015 participando de um reality show cujo o nome é SIXTEEN.
 
-[Link](url) and ![Image](src)
-```
+ O grupo não é apenas coreano já que constituem nelas 3 Japonesas(MOMO, SANA, MINA) e 1 Taiwanesa(TZUYU).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ Cada membro tem uma posição como por exemplo: Leader Rap, Leader dance, Leader vocal, Visual e outros, a líder principal delas é a Jihyo.
+ _________________________________________________________________________________________________________________________________________
+ 
+**Muito obrigada por terem visto até aqui**
+ Esse foi um site pequeno, mas já que é meu primeiro eu vou começar assim, tchau até a próxima.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ESTUDANTEISABELLE/KPOP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
