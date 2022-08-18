@@ -30,7 +30,7 @@ _______________________________________________
  
  O grupo que eu mais acompanho é o TWICE, por isso pra mim elas são em primeiro no meu top GG's. Vou falar um pouco sobre elas.
  
-[https://pin.it/5r90er7](URL)
+
 
  O grupo é constituído por 9 membros(nome de cada uma no link acima👆🏻), que debutaram(começaram carreira)em 2015 participando de um reality show cujo o nome é SIXTEEN.
 
